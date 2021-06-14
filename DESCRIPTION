@@ -1,7 +1,7 @@
 Package: zipsae
 Type: Package
 Title: Small Area Estimation with Zero-Inflated Model
-Version: 1.0.1
+Version: 1.0.2
 Authors@R: 
     c(person(given = "Fadheel Wisnu",
            family = "Utomo",
@@ -23,9 +23,9 @@ Depends: R (>= 2.10)
 URL: https://github.com/dheel/zipsae
 BugReports: https://github.com/dheel/zipsae/issues
 NeedsCompilation: no
-Packaged: 2021-06-08 08:57:17 UTC; User
+Packaged: 2021-06-14 11:54:21 UTC; User
 Author: Fadheel Wisnu Utomo [aut, trl, cre],
   Ika Yuni Wulansari [aut, ths]
 Maintainer: Fadheel Wisnu Utomo <221709671@stis.ac.id>
 Repository: CRAN
-Date/Publication: 2021-06-09 06:50:02 UTC
+Date/Publication: 2021-06-14 13:50:02 UTC
